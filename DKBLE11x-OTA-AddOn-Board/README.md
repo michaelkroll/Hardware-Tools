@@ -9,5 +9,8 @@ In order to bulid the module, order the PCB at http://www.oshpark.com (http://ww
  - 2 x 10k resistor in 0603 package
  - 1 x SPI Flash W25X20CLSNIG-ND Digikey part number: W25X20CLSNIG-ND
  - 2 x 8 pin Arduino headers (https://www.sparkfun.com/products/11895)
+ 
+
+===
 
 
