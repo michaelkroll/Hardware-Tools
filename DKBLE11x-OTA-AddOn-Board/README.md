@@ -13,4 +13,6 @@ In order to bulid the module, order the PCB at http://www.oshpark.com (http://ww
 Photos
 ===
 
-
+![The DKBLE OTA AddOn board top view](photos/DKBLE-Top.png)
+![The DKBLE OTA AddOn board macro view](photos/DKBLE-Macro.png)
+![The DKBLE OTA AddOn board bottom view](photos/DKBLE-Bottom.png)
