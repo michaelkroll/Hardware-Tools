@@ -8,6 +8,6 @@ In order to bulid the module, order the PCB at http://www.oshpark.com (http://ww
 Photos
 ===
 
-![The Adapter board](photos/board.png)
-![The TagConnect Adapter I'm using](photos/tc.png)
-![The complete setup to flash e.g. the BLEbee](photos/setup.png)
+![The Adapter board](photos/board.JPG)
+![The TagConnect Adapter I'm using](photos/tc.JPG)
+![The complete setup to flash e.g. the BLEbee](photos/setup.JPG)
